@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: views/blogger
+Disallow: views/category
+Disallow: views/creative
+Disallow: views/dataplatforms
+Disallow: views/klient
+Disallow: views/manager
+Disallow: views/platform
+Disallow: views/project
+Disallow: views/user
